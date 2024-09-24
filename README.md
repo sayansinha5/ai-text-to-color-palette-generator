@@ -23,6 +23,7 @@ git clone git@github.com:sayansinha5/ai-text-to-color-palette-generator.git
 cd ai-text-to-color-palette-generator
 ```
 
+<br />
 
 ### 3. Setting up `.env`
 Copy `.env.sample` and rename the copy to `.env`
