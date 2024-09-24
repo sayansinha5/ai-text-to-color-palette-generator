@@ -7,6 +7,8 @@ Based on the provided text, the color palette is generated. Click to copy color 
 
 ![Hero Image](/assets/screenshot-1.png)
 
+<br />
+<br />
 
 # Setting up the project
 
@@ -25,10 +27,13 @@ cd
 ### 3. Setting up `.env`
 Copy `.env.sample` and rename the copy to `.env`
 
+<br />
 
 ### 4. Place the obtained OpenAI API Key from OpenAI website
 Obtain API key from OpenAI and place it in a `.env`
 
+<br />
+<br />
 
 # Steps to run the project (Windows)
 Open command and perform the follwing steps below:
@@ -57,11 +62,15 @@ pip install -r requirements.txt
 flask run
 ```
 
+<br />
+<br />
 
 Visit http://127.0.0.1:5000 on your favorite browser to see it in action.
 
 
 ![Project Demo](/assets/demo.gif)
 
+<br />
+<br />
 
 Click to copy the HEX code and paste it directly on your project.
