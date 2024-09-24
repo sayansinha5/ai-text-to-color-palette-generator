@@ -10,17 +10,17 @@ Based on the provided text, the color palette is generated. Click to copy color 
 <br />
 <br />
 
-# Setting up the project
+# Setting up the project (Windows)
 
 ### 1. Clone the repo
 ```
-git clone
+git clone git@github.com:sayansinha5/ai-text-to-color-palette-generator.git
 ```
 
 
 ### 2. Get inside the folder
 ```
-cd
+cd ai-text-to-color-palette-generator
 ```
 
 
