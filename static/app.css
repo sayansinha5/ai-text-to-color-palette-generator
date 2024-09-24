@@ -1,0 +1,81 @@
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+    html,
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui;
+    }
+
+    .container {
+      background-color: black;
+      width: 100%;
+      height: 100vh;
+      display: flex;
+    }
+
+    .color {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: flex-end;
+      cursor: pointer;
+      transition: 0.3s opacity;
+    }
+
+    .color:hover {
+      opacity: 0.9;
+    }
+
+    .color:active {
+      opacity: 0.8;
+    }
+
+    .color span {
+      font-size: 28px;
+      margin-bottom: 24px;
+      color: white;
+      text-shadow: 1px 1px black;
+    }
+
+    #form {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 1rem;
+      outline: 0;
+      background-color: #ffffff;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      padding-left: 4px;
+      padding-right: 2px;
+      border-radius: 24px;
+      border: 1px solid #b4b4b4;
+    }
+
+    #form input[type="text"] {
+      padding-left: 10px;
+      padding-top: 4px;
+      padding-bottom: 4px;
+      font-size: 1rem;
+      outline: 0;
+      font-family: "Inter", system-ui;
+      border: none;
+      border-radius: 24px;
+    }
+
+    .btn {
+      padding: 4px 10px;
+      background-color: #4caf50;
+      border-radius: 20px;
+      font-size: 16px;
+      color: white;
+      border: 2px solid white;
+      transition: 0.2s opacity;
+      font-family: "Inter", system-ui;
+    }
+
+    .btn:hover {
+      opacity: 0.8;
+      cursor: pointer;
+    }
