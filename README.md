@@ -1,5 +1,5 @@
 # AI Text to Color Palette Generator
-Find the complete article: [https://medium.com/@sayansinha5/build-your-own-ai-text-to-color-generator-8a3e6fac17b2](https://medium.com/@sayansinha5/build-your-own-ai-text-to-color-generator-8a3e6fac17b2)
+Find the complete article: [click here](https://medium.com/@sayansinha5/build-your-own-ai-text-to-color-generator-8a3e6fac17b2)
 
 AI powered text to color palette generator.
 
